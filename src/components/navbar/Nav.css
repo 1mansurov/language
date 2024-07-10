@@ -1,0 +1,33 @@
+.nav__wrapper{
+    display: flex;
+    height: 81px;
+    max-width: 1200px;
+}
+
+.nav{
+    display: flex;
+}
+
+.content{
+    display: flex;
+}
+
+
+.logo{
+    padding: 22px;
+}
+
+.nav__logo{
+    padding: 30px;
+}
+
+.content > select{
+    margin-left: 50px;
+}
+
+.content > ul{
+
+    display: flex;
+    padding: 25px;
+    gap: 30px;
+}

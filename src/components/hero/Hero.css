@@ -1,0 +1,29 @@
+.hero__wrapper{
+    max-width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    margin: 0 auto;
+    gap: 161px;
+}
+
+.hero__content > h2{
+    margin-top: 161px;
+    font-size: 52px;
+    width: 100%;
+    color: #D05270;
+}
+.hero__content > h3{
+    width: 100%;
+    font-size: 52px;
+    color: #424242;
+}
+
+.hero__content > p{
+    max-width: 631px;
+}
+
+.hero__img{
+    width: 100%;
+}
